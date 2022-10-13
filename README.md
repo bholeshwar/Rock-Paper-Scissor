@@ -1,4 +1,4 @@
-### Rock-Paper-Scissor
+# Rock-Paper-Scissor
 
 If you are on Mac, you can build it directly using Xcode Version 12.3 by opening the xcodeproj.
 
